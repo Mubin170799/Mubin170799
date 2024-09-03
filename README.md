@@ -1,4 +1,4 @@
-🔭 I’m currently working in DataTrained.
+🔭 I’m currently workiong as DATA SCIENTIST
 🌱 I have knowledge about BigData, Machine learning, Deep learning, Computer Vision, Statistical Modeling and Natural language processing
 🤔 I’m looking for help with Open Source.
 💬 Ask me about Data Science or any tech-related stuff.
